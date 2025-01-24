@@ -143,7 +143,7 @@ document_outline: |
   Information about grammar and style guidelines that are followed by content developers.
 document:
   repo: https://github.com/michelle-miller/my-model/
-  commit: 
+  commit: 84eb95409be9f1e49addf080fbe8ffef8a321165
   patterns:
     - abbreviations.md
     - articles.md
