@@ -1,5 +1,5 @@
 created_by: michelle-miller
-version: 1
+version: 3
 domain: grammar
 seed_examples:
   - context: |
@@ -142,11 +142,11 @@ seed_examples:
 document_outline: |
   Information about grammar and style guidelines that are followed by content developers.
 document:
-  repo: https://github.com/michelle-miller/my-model/
+  repo: https://github.com/michelle-miller/my-model.git/
   commit: 84eb95409be9f1e49addf080fbe8ffef8a321165
   patterns:
     - abbreviations.md
     - articles.md
     - plurals.md
-    - possessives
+    - possessives.md
     - verbs.md
